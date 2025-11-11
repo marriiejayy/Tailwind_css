@@ -8,7 +8,7 @@ Create 6 different button variations:
 - Large size
 - Small size
 
-**Requirements:**
+Requirements:
 - Consistent padding
 - Proper font weight
 - Rounded corners

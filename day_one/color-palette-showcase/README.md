@@ -12,4 +12,4 @@ Create a component that displays:
 - Color name below each swatch
 - Proper text contrast
 
-![colorpalette]()
+![colorpalette](https://github.com/user-attachments/assets/279811b7-fc02-48eb-8136-e5e8c421900c)

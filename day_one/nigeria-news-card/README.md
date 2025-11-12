@@ -15,4 +15,4 @@ Create a news article card with:
 - Hover effects preparation (for tomorrow)
 - Nigerian-themed colors
 
-![newscard]()
+![newscard](https://github.com/user-attachments/assets/7ebb2be6-9540-44bd-a348-92439e6971e8)

@@ -73,13 +73,12 @@ function BlogPost() {
             <div className="flex items-center gap-3">
               <img 
                 src="/images/authors/author-adebayo.jpg"
-                alt="Adebayo Johnson"
+                alt="Adebayo Mary"
                 className="w-10 h-10 rounded-full object-cover"
               />
-              <span>By Adebayo Johnson</span>
+              <span>By Adebayo Mary</span>
             </div>
-            <span>January 20, 2024</span>
-            <span>5 min read</span>
+            <span>November 12, 2025</span>
           </div>
         </div>
 
@@ -178,11 +177,11 @@ function BlogPost() {
                 <div className="flex items-center gap-3 mb-3">
                   <img 
                     src="/images/authors/author-adebayo.jpg"
-                    alt="Adebayo Johnson"
+                    alt="Adebayo Mary"
                     className="w-12 h-12 rounded-full object-cover"
                   />
                   <div>
-                    <h5 className="font-bold text-gray-900">Adebayo Johnson</h5>
+                    <h5 className="font-bold text-gray-900">Adebayo Mary</h5>
                     <p className="text-sm text-gray-600">Tech Journalist</p>
                   </div>
                 </div>

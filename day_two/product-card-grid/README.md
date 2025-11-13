@@ -19,10 +19,10 @@ Create a product grid that:
 - Chin Chin - ₦500
 - Puff Puff - ₦300
 
-![largedesktop](https://github.com/user-attachments/assets/b6340d2e-464f-44a1-9b84-cad3e9024f65)
+![largedesktop](https://github.com/user-attachments/assets/9e45c85d-ee30-4b65-a73a-cc7404976382)
 
-![desktop](https://github.com/user-attachments/assets/fe0e1e96-b8de-4e8b-95f9-348b46bb4b38)
+![desktop](https://github.com/user-attachments/assets/56d1d815-9212-4146-9d52-4130f6ff4ff2)
 
-![tablet](https://github.com/user-attachments/assets/d7919dee-7b43-45e4-bf39-350221b2b952)
+![tablet](https://github.com/user-attachments/assets/62f09b93-d200-4fb9-ac42-93a92e86dd12)
 
-![mobile](https://github.com/user-attachments/assets/2d948ee2-3406-4baa-b0e1-5648a430bbe8)
+![mobile](https://github.com/user-attachments/assets/2a2f3839-4123-4430-9730-2d968d68be77)

@@ -11,47 +11,22 @@ function BlogPost() {
     { 
       id: 2, 
       title: 'Traditional Fashion Trends', 
-      date: 'Nov 12, 2025',
+      date: 'Nov 10, 2025',
       image: '/images/blog/fashion-trends.jpg'
     },
     { 
       id: 3, 
       title: 'Local Business Spotlight', 
-      date: 'Nov 12, 2025',
+      date: 'Nov 8, 2025',
       image: '/images/blog/business-spotlight.jpg'
-    },
-    { 
-      id: 4, 
-      title: 'E-commerce growth', 
-      date: 'Nov 12, 2025',
-      image: '/images/blog/ecommerce-growth.jpg'
-    },
-    { 
-      id: 5, 
-      title: 'Digital payment', 
-      date: 'Nov 12, 2025',
-      image: '/images/blog/digital-payment.jpg'
-    },
-
-    { 
-      id: 6, 
-      title: 'Local Business Spotlight', 
-      date: 'Nov 12, 2025',
-      image: '/images/blog/market-growth-rate.jpg'
-    },
-    { 
-      id: 7, 
-      title: 'Author', 
-      date: 'Nov 12, 2025',
-      image: '/images/authors/author-adebayo.jpg'
-    },
+    }
   ];
 
   return (
-    <div className="min-h-screen bg-grey-50 py-12">
+    <div className="min-h-screen bg-gray-50 py-12">
       <div className="max-w-6xl mx-auto px-4">
-        {/* Featured Image */}
-        <div className="relative h-100 rounded-2xl mb-8 overflow-hidden">
+        {/* ecommerce Image */}
+        <div className="relative h-96 rounded-2xl mb-8 overflow-hidden">
           <img 
             src="/images/blog/ecommerce-growth.jpg"
             alt="Nigerian E-commerce Growth"
@@ -73,12 +48,13 @@ function BlogPost() {
             <div className="flex items-center gap-3">
               <img 
                 src="/images/authors/author-adebayo.jpg"
-                alt="Adebayo Mary"
+                alt="Adebayo Mary - Journalist"
                 className="w-10 h-10 rounded-full object-cover"
               />
               <span>By Adebayo Mary</span>
             </div>
             <span>November 12, 2025</span>
+            <span>5 min read</span>
           </div>
         </div>
 
@@ -93,10 +69,10 @@ function BlogPost() {
                 Nigeria represents one of Africa's most promising digital markets.
               </p>
               
-              {/* Content Image 1 */}
+              {/* market growth */}
               <div className="my-8">
                 <img 
-                  src="/images/blog/market-growth.jpg"
+                  src="/images/blog/market-growth-rate.jpg"
                   alt="Nigerian Market Growth"
                   className="w-full h-64 object-cover rounded-lg"
                 />
@@ -112,7 +88,7 @@ function BlogPost() {
                 food delivery to fashion retail, Nigerian e-commerce is booming.
               </p>
 
-              {/* Content Image 2 */}
+              {/* digital payment */}
               <div className="my-8">
                 <img 
                   src="/images/blog/digital-payment.jpg"
@@ -177,12 +153,12 @@ function BlogPost() {
                 <div className="flex items-center gap-3 mb-3">
                   <img 
                     src="/images/authors/author-adebayo.jpg"
-                    alt="Adebayo Mary"
+                    alt="Adebayo Mary - Journalist"
                     className="w-12 h-12 rounded-full object-cover"
                   />
                   <div>
                     <h5 className="font-bold text-gray-900">Adebayo Mary</h5>
-                    <p className="text-sm text-gray-600">Tech Journalist</p>
+                    <p className="text-sm text-gray-600"> Journalist</p>
                   </div>
                 </div>
                 <p className="text-sm text-gray-700">
